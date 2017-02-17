@@ -1,0 +1,1 @@
+cmd_/home/pi/node-v7.4.0/out/Release/obj.target/deps/v8_inspector/src/inspector/protocol_generated_sources.stamp := touch /home/pi/node-v7.4.0/out/Release/obj.target/deps/v8_inspector/src/inspector/protocol_generated_sources.stamp

@@ -1,0 +1,1 @@
+cmd_/home/pi/node-v7.4.0/out/Release/icupkg := g++ -pthread -rdynamic  -o /home/pi/node-v7.4.0/out/Release/icupkg -Wl,--start-group /home/pi/node-v7.4.0/out/Release/obj.host/icupkg/deps/icu-small/source/tools/icupkg/icupkg.o /home/pi/node-v7.4.0/out/Release/obj.host/icupkg/tools/icu/no-op.o /home/pi/node-v7.4.0/out/Release/obj.host/tools/icu/libicutools.a -Wl,--end-group 

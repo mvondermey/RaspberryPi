@@ -1,0 +1,1 @@
+cmd_/home/pi/node-v7.4.0/out/Release/obj.target/tools/icu/libicudata.a := rm -f /home/pi/node-v7.4.0/out/Release/obj.target/tools/icu/libicudata.a && ar crsT /home/pi/node-v7.4.0/out/Release/obj.target/tools/icu/libicudata.a /home/pi/node-v7.4.0/out/Release/obj.target/icudata/gen/icusmdt58_dat.o

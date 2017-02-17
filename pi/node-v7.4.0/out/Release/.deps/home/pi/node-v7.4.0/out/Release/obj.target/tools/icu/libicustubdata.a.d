@@ -1,0 +1,1 @@
+cmd_/home/pi/node-v7.4.0/out/Release/obj.target/tools/icu/libicustubdata.a := rm -f /home/pi/node-v7.4.0/out/Release/obj.target/tools/icu/libicustubdata.a && ar crsT /home/pi/node-v7.4.0/out/Release/obj.target/tools/icu/libicustubdata.a /home/pi/node-v7.4.0/out/Release/obj.target/icustubdata/deps/icu-small/source/stubdata/stubdata.o

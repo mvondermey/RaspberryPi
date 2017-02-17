@@ -1,0 +1,35 @@
+2017/01/31-10:38:52.781 2063 Reusing MANIFEST /home/pi/.config/chromium/Default/Local Extension Settings/cjpalhdlnbpafiamejdnhcphjbkeiagm/MANIFEST-000001
+2017/01/31-10:39:01.617 2189 Level-0 table #5: started
+2017/01/31-10:39:01.906 2189 Level-0 table #5: 1712712 bytes OK
+2017/01/31-10:39:01.919 2189 Delete type=0 #3
+2017/01/31-11:34:03.484 2189 Level-0 table #7: started
+2017/01/31-11:34:07.334 2189 Level-0 table #7: 2173013 bytes OK
+2017/01/31-11:34:08.143 2189 Delete type=0 #4
+2017/01/31-23:54:52.095 2189 Level-0 table #9: started
+2017/01/31-23:54:54.181 2189 Level-0 table #9: 2715124 bytes OK
+2017/01/31-23:54:55.655 2189 Delete type=0 #6
+2017/02/01-11:35:26.900 2189 Level-0 table #11: started
+2017/02/01-11:35:27.314 2189 Level-0 table #11: 1774774 bytes OK
+2017/02/01-11:35:28.780 2189 Delete type=0 #8
+2017/02/02-10:30:52.293 2189 Level-0 table #13: started
+2017/02/02-10:30:52.737 2189 Level-0 table #13: 3394313 bytes OK
+2017/02/02-10:30:52.751 2189 Delete type=0 #10
+2017/02/02-22:14:29.514 2189 Level-0 table #15: started
+2017/02/02-22:14:29.921 2189 Level-0 table #15: 1775877 bytes OK
+2017/02/02-22:14:31.375 2189 Delete type=0 #12
+2017/02/02-22:14:31.382 2189 Compacting 4@0 + 1@1 files
+2017/02/02-22:14:32.582 2189 Generated table #16@0: 19 keys, 2940438 bytes
+2017/02/02-22:14:33.060 2189 Generated table #17@0: 6 keys, 270726 bytes
+2017/02/02-22:14:33.060 2189 Compacted 4@0 + 1@1 files => 3211164 bytes
+2017/02/02-22:14:35.433 2189 compacted to: files[ 0 2 1 0 0 0 0 ]
+2017/02/02-22:14:35.434 2189 Delete type=2 #11
+2017/02/02-22:14:35.435 2189 Delete type=2 #9
+2017/02/02-22:14:35.437 2189 Delete type=2 #13
+2017/02/02-22:14:35.440 2189 Delete type=2 #15
+2017/02/02-22:14:35.441 2189 Delete type=2 #7
+2017/02/04-08:34:52.631 2189 Level-0 table #19: started
+2017/02/04-08:34:53.326 2189 Level-0 table #19: 3395361 bytes OK
+2017/02/04-08:34:54.791 2189 Delete type=0 #14
+2017/02/04-20:15:38.336 2189 Level-0 table #21: started
+2017/02/04-20:15:43.207 2189 Level-0 table #21: 2159875 bytes OK
+2017/02/04-20:15:44.089 2189 Delete type=0 #18
